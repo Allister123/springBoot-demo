@@ -1,0 +1,9 @@
+server: 
+  port: 8081 # tomcat 启动端口
+  session-timeout: 30 #session有效时间
+  tomcat: 
+    uri-encoding: UTF-8 #Tomcat编码设为UTF-8
+user: #自定义属性
+  username: Allister
+  age: 22
+  
